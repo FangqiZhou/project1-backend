@@ -12,10 +12,10 @@ import java.util.Arrays;
 
 
 @SpringBootApplication
-public class EmployeemanagerApplication {
+public class EmployeeManagerApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(EmployeemanagerApplication.class, args);
+		SpringApplication.run(EmployeeManagerApplication.class, args);
 	}
 
 	@Bean
